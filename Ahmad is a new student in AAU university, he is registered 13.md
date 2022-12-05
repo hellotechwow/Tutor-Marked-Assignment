@@ -1,6 +1,6 @@
-<b> Solution </b> https://www.youtube.com/watch?v=x_IxuSQg9H8
-Ahmad is a new student in AAU university, he is registered 13
-hours in his first semester.
+<b> Solution </b> https://www.youtube.com/watch?v=x_IxuSQg9H8 <br>
+
+Ahmad is a new student in AAU university, he is registered 13 hours in his first semester.
 
 C++, C+Hab, Arabic, calculus, English.
 
